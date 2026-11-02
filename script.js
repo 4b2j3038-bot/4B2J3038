@@ -1,5 +1,5 @@
 const countdown = document.getElementById('day');
-const nextShow = new Date(2026, 9, 10);
+const nextShow = new Date(2026, 11, 5);
 const today = new Date();
 today.setHours(0, 0, 0, 0);
 
